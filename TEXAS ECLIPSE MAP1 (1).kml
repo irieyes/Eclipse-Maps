@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>TEXAS ECLIPSE MAP</name>
+	<LookAt>
+		<longitude>-98.35176525926586</longitude>
+		<latitude>30.80092359055692</latitude>
+		<altitude>0</altitude>
+		<heading>2.395548542687976e-08</heading>
+		<tilt>45.00000000077416</tilt>
+		<range>4879.346057644054</range>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<color>87ffffff</color>
+	<Icon>
+		<href>/Users/ryankandell/Downloads/TE24 Current Map (3-22-2024 Update).png</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<gx:LatLonQuad>
+		<coordinates>
+			-98.36605833333334,30.78455277777778,0 -98.33747222222223,30.78455277777778,0 -98.33747222222223,30.81729444444444,0 -98.36605833333334,30.81729444444444,0 
+		</coordinates>
+	</gx:LatLonQuad>
+</GroundOverlay>
+</kml>
